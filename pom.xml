@@ -79,7 +79,7 @@ The resulting code and discussion is vital for us and will be used as a way for 
 			<dependency>
 				<groupId>junit</groupId>
 				<artifactId>junit</artifactId>
-				<version>4.12</version>
+				<version>4.13.1</version>
 				<scope>test</scope>
 			</dependency>
 		</dependencies>
